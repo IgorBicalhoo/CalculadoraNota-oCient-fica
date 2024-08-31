@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725147440 source:c:\users\sem nome\documents\calculadora cientifica\calculadora notação cientifica\main.cpp
+	<iostream>
+	<iomanip>
+	<map>
+	<functional>
+
